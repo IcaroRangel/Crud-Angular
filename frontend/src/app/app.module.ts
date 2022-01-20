@@ -18,6 +18,7 @@ import { MatSnackBarModule } from "@angular/material/snack-bar";
 import { HomeComponent } from "./views/home/home.component";
 import { ProductCrudComponent } from "./views/product-crud/product-crud.component";
 import { ForDirective } from "./directives/for.directive";
+import { HttpClientModule } from "@angular/common/http";
 import { ProductCreateComponent } from "./components/product/product-create/product-create.component";
 
 @NgModule({
@@ -41,6 +42,7 @@ import { ProductCreateComponent } from "./components/product/product-create/prod
     MatCardModule,
     MatButtonModule,
     MatSnackBarModule,
+    HttpClientModule,
   ],
   providers: [],
   bootstrap: [AppComponent],
