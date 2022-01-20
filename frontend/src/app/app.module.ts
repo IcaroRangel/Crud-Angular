@@ -23,6 +23,7 @@ import { FormsModule } from "@angular/forms";
 import { MatFormFieldModule } from "@angular/material/form-field";
 import { MatInputModule } from "@angular/material/input";
 import { ProductCreateComponent } from "./components/product/product-create/product-create.component";
+import { ProductReadComponent } from './components/product/product-read/product-read.component';
 
 @NgModule({
   declarations: [
@@ -34,6 +35,7 @@ import { ProductCreateComponent } from "./components/product/product-create/prod
     ProductCrudComponent,
     ForDirective,
     ProductCreateComponent,
+    ProductReadComponent,
   ],
   imports: [
     BrowserModule,
