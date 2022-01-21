@@ -4,6 +4,11 @@
       "name": "Lapis",
       "price": "11.90",
       "id": 2
+    },
+    {
+      "name": "Boné",
+      "price": "11.90",
+      "id": 4
     }
   ]
 }

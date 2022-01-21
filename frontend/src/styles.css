@@ -17,6 +17,12 @@ body {
   vertical-align: middle;
 }
 
-.green-snackbar {
+.msg-sucess {
   background: #90ee90;
+  color: #111111;
+}
+
+.msg-error {
+  background: #e35e6b;
+  color: #111111;
 }
