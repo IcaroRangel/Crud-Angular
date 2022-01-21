@@ -16,3 +16,7 @@ body {
 .v-middle {
   vertical-align: middle;
 }
+
+.green-snackbar {
+  background: #00ff15;
+}
