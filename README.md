@@ -1,6 +1,10 @@
 # CRUD-ANGULAR-NODE
 Projeto CRUD sobre produtos utilizando Angular
 
+# Pré-requisitos
+Você vai prescisar ter no seu computador:
+[GIT](https://git-scm.com/)
+
 # Rodando o Front-end
 
 ```bash
