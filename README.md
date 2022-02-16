@@ -21,6 +21,7 @@ npm install / yarn
 
 # execute a aplicação
 npm start / yarn start
+```
 
 ### Tecnologias ⚒️
 
