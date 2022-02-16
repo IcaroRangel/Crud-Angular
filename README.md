@@ -1,5 +1,5 @@
 # CRUD-ANGULAR-NODE
-Projeto CRUD sobre produtos utilizando Angular
+Projeto CRUD sobre produtos utilizando Angular e Node.Js
 
 # Pré-requisitos
 Você vai prescisar ter no seu computador:
