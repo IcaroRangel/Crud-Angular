@@ -31,4 +31,4 @@ As seguintes tecnologias foram utilizadas no projeto:
 - [Angular](https://angular.io/)
 - [Node.Js](https://nodejs.org/en/)
 
-Feito por Icaro Cesar R. 👾
+Feito por Icaro Cesar R. 🤠
