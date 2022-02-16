@@ -3,9 +3,9 @@ Projeto CRUD sobre produtos utilizando Angular
 
 # Pré-requisitos
 Você vai prescisar ter no seu computador:
-[Git](https://git-scm.com/)
-[Node.Js](https://nodejs.org/en/)
-Além disso um bom editor de texto [VsCode](https://code.visualstudio.com/download).
+[Git](https://git-scm.com/),
+[Node.Js](https://nodejs.org/en/),
+além disso um bom editor de texto [VsCode](https://code.visualstudio.com/download).
 
 # Rodando o Front-end
 
