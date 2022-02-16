@@ -21,3 +21,11 @@ npm install / yarn
 
 # execute a aplicação
 npm start / yarn start
+
+### Tecnologias ⚒️
+
+- Tecnologias utilizadas no projeto: 
+
+- [TypeScript](https://www.typescriptlang.org/)
+- [Angular](https://angular.io/)
+- [Node.Js](https://nodejs.org/en/)
