@@ -30,3 +30,5 @@ As seguintes tecnologias foram utilizadas no projeto:
 - [TypeScript](https://www.typescriptlang.org/)
 - [Angular](https://angular.io/)
 - [Node.Js](https://nodejs.org/en/)
+
+Feito por Icaro Cesar R. 👾
