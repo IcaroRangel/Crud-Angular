@@ -25,7 +25,7 @@ npm start / yarn start
 
 ### Tecnologias ⚒️
 
-- Tecnologias utilizadas no projeto: 
+Tecnologias utilizadas no projeto: 
 
 - [TypeScript](https://www.typescriptlang.org/)
 - [Angular](https://angular.io/)
