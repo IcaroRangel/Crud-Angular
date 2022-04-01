@@ -11,7 +11,7 @@ além disso um bom editor de texto [VsCode](https://code.visualstudio.com/downlo
 
 ```bash
 # clone este repositório
-git clone <https://github.com/IcaroRangel/crud-angular-node.git>
+git clone https://github.com/IcaroRangel/crud-angular-node.git
 
 # acesse a pasta
 cd frontend
